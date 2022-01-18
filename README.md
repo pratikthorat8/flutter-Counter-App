@@ -15,9 +15,7 @@ Start Up Screen
 Working Demo: 
 <br>
 <br>
-<video width="320" height="240" controls>
-  <source src="counter_application/flutter counter app recording" type="video/mp4">
-</video>
+![Working demo GIF](ezgif.com-gif-maker.gif)
 <br>
 <br>
 <img src="counter_application\assets\Screenshot_1642274992.png" alt = "Start-up App screen"/>
