@@ -12,12 +12,6 @@ It comes with a reset and a decrement button. Furthermore, I have added a snackb
 Start Up Screen
 <br>
 <br>
-Working Demo: 
-<br>
-<br>
-![Working demo GIF](ezgif.com-gif-maker.gif)
-<br>
-<br>
 <img src="counter_application\assets\Screenshot_1642274992.png" alt = "Start-up App screen"/>
 <br>
 <br>
