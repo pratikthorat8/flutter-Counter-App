@@ -12,7 +12,14 @@ It comes with a reset and a decrement button. Furthermore, I have added a snackb
 Start Up Screen
 <br>
 <br>
-
+Working Demo: 
+<br>
+<br>
+<video width="320" height="240" controls>
+  <source src="counter_application/flutter counter app recording" type="video/mp4">
+</video>
+<br>
+<br>
 <img src="counter_application\assets\Screenshot_1642274992.png" alt = "Start-up App screen"/>
 <br>
 <br>
